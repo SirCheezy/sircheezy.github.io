@@ -23,5 +23,5 @@ This is the official repository for the SirCheezy website. If you're looking for
 <br>
 
 <h3>𐌋𐌉𐌍𐌊𐌔</h3>
-<a href="https://youtube.com/@cheezystuff">YouTube</a>, <a href="https://twitter.com/sircheezyyt">Twitter</a>, <a href="https://tiktok.com/@sircheezy.yt">TikTok</a>, <a href="sircheezy.github.io">Website</a>
+<a href="https://youtube.com/@cheezystuff">YouTube</a>, <a href="https://twitter.com/sircheezyyt">Twitter</a>, <a href="https://tiktok.com/@sircheezy.yt">TikTok</a>, <a href="https://sircheezy.github.io">Website</a>
 
