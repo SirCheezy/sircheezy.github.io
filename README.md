@@ -17,6 +17,14 @@ This is the official repository for the SirCheezy website. If you're looking for
     <td>2/5/23</td>
     <td>The first published version of the website.</td>
   </tr>
+  
+   <!-- Version 1.0.5 Data --!>
+
+  <tr>
+    <td>1.0.5</td>
+    <td>2/9/23</td>
+    <td>Fixed some bugs with blog posts and images.</td>
+  </tr>
 
 </table>
 
