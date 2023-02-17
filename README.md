@@ -26,7 +26,7 @@ This is the official repository for the SirCheezy website. If you're looking for
     <td>Fixed some bugs with blog posts and images.</td>
   </tr>
 
-</table>
+   <!-- Version 1.1.0 Data --!>
 
   <tr>
     <td>1.1.0</td>
@@ -35,6 +35,9 @@ This is the official repository for the SirCheezy website. If you're looking for
   </tr>
 
 </table>
+
+</table>
+
 
 <br>
 
