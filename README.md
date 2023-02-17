@@ -28,6 +28,14 @@ This is the official repository for the SirCheezy website. If you're looking for
 
 </table>
 
+  <tr>
+    <td>1.1.0</td>
+    <td>2/17/23</td>
+    <td>Total site redesign.</td>
+  </tr>
+
+</table>
+
 <br>
 
 <h3>𐌋𐌉𐌍𐌊𐌔</h3>
