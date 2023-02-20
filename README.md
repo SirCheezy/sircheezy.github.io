@@ -33,6 +33,14 @@ This is the official repository for the SirCheezy website. If you're looking for
     <td>2/17/23</td>
     <td>Total site redesign.</td>
   </tr>
+  
+   <!-- Version 1.2.0 Data --!>
+
+  <tr>
+    <td>1.2.0</td>
+    <td>2/20/23</td>
+    <td>Another new redesign, I didn't really like the other one.</td>
+  </tr>
 
 </table>
 
