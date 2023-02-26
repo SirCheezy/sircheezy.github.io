@@ -41,6 +41,14 @@ This is the official repository for the SirCheezy website. If you're looking for
     <td>2/20/23</td>
     <td>Another new redesign, I didn't really like the other one.</td>
   </tr>
+  
+     <!-- Version 1.2.05 Data --!>
+
+  <tr>
+    <td>1.2.05</td>
+    <td>2/26/23</td>
+    <td>New Favicon for all pages & index.html title change.</td>
+  </tr>
 
 </table>
 
